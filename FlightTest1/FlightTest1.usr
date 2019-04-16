@@ -43,18 +43,12 @@ Version=14.52
 
 [TulipAddins]
 Database=
-Delphi=
 File Content=
-Flex=
 Insight=
 Java=
 Mobile=
 Oracle=
-PeopleSoft=
-Qt=
-Siebel=
 Windows Applications=
-Stingray=
 TEA=
 UI Automation=
 VisualAge Smalltalk=
