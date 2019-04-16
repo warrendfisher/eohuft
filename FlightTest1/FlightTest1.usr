@@ -29,6 +29,10 @@ Default Profile=default.usp
 [Rendezvous]
 
 [Transactions]
+1_Login=
+2_FlightFinder=
+3_SelectFlight=
+4_FlightConfirmation=
 
 [ActiveScript]
 Lang=none
