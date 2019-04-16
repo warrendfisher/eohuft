@@ -1,5 +1,5 @@
-﻿RunAction "OpenAdvantageShopping", oneIteration
-RunAction "FindLaptop", oneIteration
-RunAction "AddToCart", oneIteration
-RunAction "CheckCart", oneIteration
-RunAction "RemoveFromCart", oneIteration
+﻿RunAction "1_OpenAdvantageShopping", oneIteration
+RunAction "2_FindLaptop", oneIteration
+RunAction "3_AddToCart", oneIteration
+RunAction "4_CheckCart", oneIteration
+RunAction "5_RemoveFromCart", oneIteration

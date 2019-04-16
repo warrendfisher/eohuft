@@ -12,11 +12,11 @@ DevelopTool=AQT
 
 [Actions]
 Action0=Action0\Script.mts
-OpenAdvantageShopping=Action1\Script.mts
-FindLaptop=Action2\Script.mts
-AddToCart=Action4\Script.mts
-CheckCart=Action5\Script.mts
-RemoveFromCart=Action6\Script.mts
+1_OpenAdvantageShopping=Action1\Script.mts
+2_FindLaptop=Action2\Script.mts
+3_AddToCart=Action4\Script.mts
+4_CheckCart=Action5\Script.mts
+5_RemoveFromCart=Action6\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
